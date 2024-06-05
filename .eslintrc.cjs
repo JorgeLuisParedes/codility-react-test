@@ -45,5 +45,6 @@ module.exports = {
 		'react-hooks/exhaustive-deps': 'off',
 		'no-unused-vars': 'off',
 		'import/no-absolute-path': 'off',
+		camelcase: 'off',
 	},
 };
